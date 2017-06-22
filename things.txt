@@ -1,0 +1,5 @@
+https://docs.google.com/presentation/d/1BpLe5lH0W8Kva9d3B2fdOAv1oSV-XpvtZ9Vr1dybzjI/edit#slide=id.g19919ce53f_0_42
+
+https://github.com/cronvel/terminal-kit
+
+https://www.npmjs.com/package/ascii-art
