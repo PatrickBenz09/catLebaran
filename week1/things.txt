@@ -1,0 +1,24 @@
+Week 1
+
+nodejs.org/api/debugger.html
+https://nodejs.org/api/readline.html
+http://eloquentjavascript.net/09_regexp.html
+https://benchmarkjs.com/
+
+Day 1
+
+Debugging:
+nodejs.org/api/debugger.html
+
+
+——————————————————
+
+Day 2
+
+- .exec
+mengeksekusi regex pada sebuah string. dan memiliki hasil yg cutup lengkap (match, index, input)
+cth:
+let test = (/a/gi).exec(hola);		// [ 'a', index: 3, input: ‘hola’ ]
+
+
+
